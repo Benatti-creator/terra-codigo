@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+
+Sitemap: https://benatti-creator.github.io/terra-codigo/sitemap.xml

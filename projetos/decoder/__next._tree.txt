@@ -1,4 +1,4 @@
-:HL["/terra-codigo/_next/static/chunks/2jkw7dkqtai_a.css","style"]
+:HL["/terra-codigo/_next/static/chunks/2cnmx6gds-pch.css","style"]
 :HL["/terra-codigo/_next/static/media/0344c0a4a9df02b3-s.p.171shbaxyastj.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/terra-codigo/_next/static/media/73c8302d2fdfe340-s.p.30xqm3yldpj47.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/terra-codigo/_next/static/media/9f5be66613d9c872-s.p.27korwsf9c79u.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
@@ -9,4 +9,4 @@
 3:[["children",{"s":"__PAGE__","h":160}]]
 2:[["children",{"s":{"n":"slug","t":"d","k":"decoder","s":[]},"h":65632,"c":"$Q3"}]]
 1:[["children",{"s":"projetos","h":131168,"c":"$Q2"}]]
-0:{"b":"SXsq5sc2pOUGPUAHl_BPH","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
+0:{"b":"w1p_UeC6lFoIlUCSQq_VS","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
